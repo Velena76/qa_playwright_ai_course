@@ -1,6 +1,7 @@
 import { expect, test } from './../../fixtures';
 
 test('Анна входит как покупатель и не видит админ-пункт', async ({ page }) => {
+    await page.pause();
     await page.goto('/login');
 
     await page.getByTestId('login-input').fill('anna');

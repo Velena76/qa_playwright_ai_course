@@ -3,7 +3,7 @@ import * as fs from "node:fs";
 import * as http from "node:http";
 import * as path from "node:path";
 import { createSession, parseSid, publicUser, requireAdmin, requireUser, sendError } from "./auth.mjs";
-import { audit, hashPassword, loadDb, nextId, nowIso, saveDb, sendJson, buildSeedDb } from "./db.mjs";
+import { audit, buildSeedDb, hashPassword, loadDb, nextId, nowIso, saveDb, sendJson } from "./db.mjs";
 
 program.option('--port <number>', 'server port number');
 program.parse(process.argv);
@@ -378,7 +378,10 @@ async function readBody(req) {
 const server = http.createServer(async (req, res) => {
     try {
         const url = new URL(req.url, `http://${req.headers.host ?? "localhost"}`);
-
+        if (req.url === '/' && req.method === 'HEAD') {
+            res.end('ok');
+        }
+        
         if (!url.pathname.startsWith("/api/")) {
             await serveStatic(req, res, url);
             return;

@@ -2,7 +2,7 @@ import { defineConfig } from '@playwright/test';
 import { join } from 'node:path';
 
 
-const pathToChrome = '/home/Tomheten/chrome-linux64/chrome';
+const pathToChrome = 'C:/test-chrome/chrome.exe';
 if (!pathToChrome) {
     throw new Error('Should set path to Chrome(Yandex or other Chromium-based browser)');
 }
@@ -22,9 +22,9 @@ export default defineConfig({
     ],
     timeout: 30_000,
     globalTimeout: 30_000,
-    webServer: {
-        command: 'npm run start:server'
-    },
+    // webServer: {
+    //     command: 'npm run start:server'
+    // },
     use: {
         screenshot: 'on',
         trace: 'off',
