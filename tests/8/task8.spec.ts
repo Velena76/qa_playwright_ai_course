@@ -9,4 +9,6 @@ test('Успешный вход на страницу каталога', async (
 
     await expect(page).toHaveURL(/\/catalog/);
     await expect(page.getByTestId('role-badge')).toHaveText('user');
+    await expect(page.getByTestId('nav-admin-products')).toHaveCount(0);
+    await expect(page.getByTestId('app-arror')).toBeHidden();
 });

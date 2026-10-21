@@ -61,6 +61,13 @@
       "token": "b2ebecbac667f2bfcc2f6bcba329e42e9450cc00e0bd9a7bfb9a9a3f1f171b46",
       "expires_at": "2026-10-19T17:17:46.445Z",
       "created_at": "2026-10-19T15:17:46.445Z"
+    },
+    {
+      "id": 7,
+      "user_id": 3,
+      "token": "26081edb6dae54f64681009f80ca801deecb9fc68e374d1d47e727d5b1a58d59",
+      "expires_at": "2026-10-21T12:13:26.383Z",
+      "created_at": "2026-10-21T10:13:26.383Z"
     }
   ],
   "products": [
@@ -397,12 +404,47 @@
       "action": "login",
       "payload": "{\"login\":\"kira\"}",
       "created_at": "2026-10-19T15:17:46.445Z"
+    },
+    {
+      "id": 6,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-10-21T10:07:00.701Z"
+    },
+    {
+      "id": 7,
+      "user_id": 3,
+      "action": "logout",
+      "payload": "{}",
+      "created_at": "2026-10-21T10:11:32.111Z"
+    },
+    {
+      "id": 8,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-21T10:11:50.131Z"
+    },
+    {
+      "id": 9,
+      "user_id": 1,
+      "action": "logout",
+      "payload": "{}",
+      "created_at": "2026-10-21T10:13:08.734Z"
+    },
+    {
+      "id": 10,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-10-21T10:13:26.383Z"
     }
   ],
   "seq": {
     "users": 3,
-    "sessions": 4,
+    "sessions": 7,
     "products": 27,
-    "audit_log": 5
+    "audit_log": 10
   }
 }
