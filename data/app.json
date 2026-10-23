@@ -68,6 +68,34 @@
       "token": "26081edb6dae54f64681009f80ca801deecb9fc68e374d1d47e727d5b1a58d59",
       "expires_at": "2026-10-21T12:13:26.383Z",
       "created_at": "2026-10-21T10:13:26.383Z"
+    },
+    {
+      "id": 8,
+      "user_id": 1,
+      "token": "5e179696bf6eaf07e8c78530ac8571b634eb0a797de80562cb6694bad68b946f",
+      "expires_at": "2026-10-23T16:06:16.808Z",
+      "created_at": "2026-10-23T14:06:16.808Z"
+    },
+    {
+      "id": 9,
+      "user_id": 1,
+      "token": "79ce90e418df0be7ac0c6f1975a6da58173ca740f6425df48ff5a3a79517f2b6",
+      "expires_at": "2026-10-23T16:21:16.154Z",
+      "created_at": "2026-10-23T14:21:16.154Z"
+    },
+    {
+      "id": 10,
+      "user_id": 1,
+      "token": "65c8a6cc7e0f3f6cfc7cea383af7f0ec53dbd7e229141580f3e1f9370e8eb31e",
+      "expires_at": "2026-10-23T17:39:30.393Z",
+      "created_at": "2026-10-23T15:39:30.393Z"
+    },
+    {
+      "id": 11,
+      "user_id": 1,
+      "token": "a199af6e531613ccb2217f7a1c1a3653427b32accaf0888bb1eb65d13759fb20",
+      "expires_at": "2026-10-23T17:43:38.193Z",
+      "created_at": "2026-10-23T15:43:38.193Z"
     }
   ],
   "products": [
@@ -439,12 +467,40 @@
       "action": "login",
       "payload": "{\"login\":\"kira\"}",
       "created_at": "2026-10-21T10:13:26.383Z"
+    },
+    {
+      "id": 11,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-23T14:06:16.808Z"
+    },
+    {
+      "id": 12,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-23T14:21:16.154Z"
+    },
+    {
+      "id": 13,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-23T15:39:30.393Z"
+    },
+    {
+      "id": 14,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-23T15:43:38.193Z"
     }
   ],
   "seq": {
     "users": 3,
-    "sessions": 7,
+    "sessions": 11,
     "products": 27,
-    "audit_log": 10
+    "audit_log": 14
   }
 }
