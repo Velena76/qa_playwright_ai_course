@@ -96,6 +96,41 @@
       "token": "a199af6e531613ccb2217f7a1c1a3653427b32accaf0888bb1eb65d13759fb20",
       "expires_at": "2026-10-23T17:43:38.193Z",
       "created_at": "2026-10-23T15:43:38.193Z"
+    },
+    {
+      "id": 12,
+      "user_id": 1,
+      "token": "7b547da4ab7d2008ab0cfc0f53872934756afc8b3ac73bb88295ba147d73c92a",
+      "expires_at": "2026-10-26T15:20:37.892Z",
+      "created_at": "2026-10-26T13:20:37.892Z"
+    },
+    {
+      "id": 13,
+      "user_id": 1,
+      "token": "4e2999b5ca4eb354f77eb115dd2191b28c567199875ade60e5f3341f63d087a0",
+      "expires_at": "2026-10-26T18:42:48.317Z",
+      "created_at": "2026-10-26T16:42:48.317Z"
+    },
+    {
+      "id": 14,
+      "user_id": 1,
+      "token": "b1073b5cdd9cc2429c180e4b3a8d79f0a9d5552148c9d1e4527908c46865205b",
+      "expires_at": "2026-10-26T18:54:03.586Z",
+      "created_at": "2026-10-26T16:54:03.586Z"
+    },
+    {
+      "id": 15,
+      "user_id": 1,
+      "token": "d753d9c4e219f8452bfea07eefdf5a9d0f2602228131f7535c302f10448d4f97",
+      "expires_at": "2026-10-26T19:06:47.435Z",
+      "created_at": "2026-10-26T17:06:47.435Z"
+    },
+    {
+      "id": 16,
+      "user_id": 1,
+      "token": "5d10b304ae948e84385d828232f385296edcea9570934e6c0ea48ddd29463775",
+      "expires_at": "2026-10-26T19:07:38.667Z",
+      "created_at": "2026-10-26T17:07:38.668Z"
     }
   ],
   "products": [
@@ -495,12 +530,47 @@
       "action": "login",
       "payload": "{\"login\":\"anna\"}",
       "created_at": "2026-10-23T15:43:38.193Z"
+    },
+    {
+      "id": 15,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-26T13:20:37.892Z"
+    },
+    {
+      "id": 16,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-26T16:42:48.317Z"
+    },
+    {
+      "id": 17,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-26T16:54:03.587Z"
+    },
+    {
+      "id": 18,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-26T17:06:47.436Z"
+    },
+    {
+      "id": 19,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-10-26T17:07:38.668Z"
     }
   ],
   "seq": {
     "users": 3,
-    "sessions": 11,
+    "sessions": 16,
     "products": 27,
-    "audit_log": 14
+    "audit_log": 19
   }
 }
