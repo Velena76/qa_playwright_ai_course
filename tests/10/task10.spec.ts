@@ -19,7 +19,7 @@ test('успешный поиск по каталогу', async ({ page }) => {
 
     await expect(page).toHaveURL(/q=/);
     
-    const namesLocator = page.getByTestId('catalog-rowe');
+    const namesLocator = page.getByTestId('catalog-row');
     const names = await namesLocator.allTextContents();
     
     if (names.length === 0) return;
