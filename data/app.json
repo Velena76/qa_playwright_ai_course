@@ -215,6 +215,55 @@
       "token": "7c69316fc3ca64b30449d4b63180fa2663a15142a660bf2edef40ce73c517eca",
       "expires_at": "2026-11-01T16:57:30.128Z",
       "created_at": "2026-11-01T14:57:30.128Z"
+    },
+    {
+      "id": 29,
+      "user_id": 1,
+      "token": "ca0189d8b6c659d5e312004a18c0ea97bc45f5e38fa9d18f683e4f6de302f318",
+      "expires_at": "2026-11-02T15:40:43.250Z",
+      "created_at": "2026-11-02T13:40:43.250Z"
+    },
+    {
+      "id": 30,
+      "user_id": 1,
+      "token": "bb735d9e144c2ff5314f8734f48f9ecd63191b91771ecb896215799fbc440b0c",
+      "expires_at": "2026-11-02T16:15:08.763Z",
+      "created_at": "2026-11-02T14:15:08.763Z"
+    },
+    {
+      "id": 31,
+      "user_id": 1,
+      "token": "a6249f7e553343204ca3ce400fdb3b7e97aba0770ddd955a75654c909d8a68ef",
+      "expires_at": "2026-11-02T17:03:04.236Z",
+      "created_at": "2026-11-02T15:03:04.236Z"
+    },
+    {
+      "id": 32,
+      "user_id": 1,
+      "token": "5c997a95c3b08ada82cd040ca9389dda2d1e72fd46e2a2259dd5dda5032a7fb8",
+      "expires_at": "2026-11-02T18:15:55.509Z",
+      "created_at": "2026-11-02T16:15:55.509Z"
+    },
+    {
+      "id": 33,
+      "user_id": 1,
+      "token": "13bf19739938a6f4bae75e44f043fc8cd43038e2e208c5a50b9f7478e4e65445",
+      "expires_at": "2026-11-02T18:33:13.917Z",
+      "created_at": "2026-11-02T16:33:13.917Z"
+    },
+    {
+      "id": 34,
+      "user_id": 1,
+      "token": "10e0b8e75e00034d7cc37d8ccfa3c378c9f80e5a43bf251363f9e17afcc6d600",
+      "expires_at": "2026-11-02T18:38:30.665Z",
+      "created_at": "2026-11-02T16:38:30.665Z"
+    },
+    {
+      "id": 35,
+      "user_id": 1,
+      "token": "f107de5a44f9ac9ed65e0e00125cbeec1c186938bbab22c8e95f9d1a521794ea",
+      "expires_at": "2026-11-02T18:45:32.205Z",
+      "created_at": "2026-11-02T16:45:32.205Z"
     }
   ],
   "products": [
@@ -733,12 +782,61 @@
       "action": "login",
       "payload": "{\"login\":\"anna\"}",
       "created_at": "2026-11-01T14:57:30.128Z"
+    },
+    {
+      "id": 32,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-02T13:40:43.250Z"
+    },
+    {
+      "id": 33,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-02T14:15:08.763Z"
+    },
+    {
+      "id": 34,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-02T15:03:04.236Z"
+    },
+    {
+      "id": 35,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-02T16:15:55.509Z"
+    },
+    {
+      "id": 36,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-02T16:33:13.917Z"
+    },
+    {
+      "id": 37,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-02T16:38:30.665Z"
+    },
+    {
+      "id": 38,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-02T16:45:32.205Z"
     }
   ],
   "seq": {
     "users": 3,
-    "sessions": 28,
+    "sessions": 35,
     "products": 27,
-    "audit_log": 31
+    "audit_log": 38
   }
 }

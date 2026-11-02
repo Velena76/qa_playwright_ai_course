@@ -25,4 +25,8 @@ test('выбор категории оставляет только товары
         expect(text?.trim()).toBe("notebooks");
     }
     await expect(page.getByTestId('app-error')).toBeHidden();
+
 });
+
+
+
