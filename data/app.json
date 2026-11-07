@@ -4,289 +4,43 @@
       "id": 1,
       "login": "anna",
       "email": "anna@example.com",
-      "password_salt": "c0591e0fa08f9d03",
-      "password_hash": "858073530b8bd79cfd4c44dac453e56bf6f3ca48796919b9642e2eab327e7227",
+      "password_salt": "ecd9106bade2f00c",
+      "password_hash": "b1c7d0697cc71d76a0a019b1b05e54262d6bb44789f557184b736827e19bd74c",
       "first_name": "Анна",
       "last_name": "Покупателева",
       "role": "user",
       "is_blocked": 0,
-      "created_at": "2026-10-15T07:14:46.742Z",
-      "updated_at": "2026-10-15T07:14:46.742Z"
+      "created_at": "2026-11-07T18:00:01.082Z",
+      "updated_at": "2026-11-07T18:00:01.082Z"
     },
     {
       "id": 2,
       "login": "boris",
       "email": "boris@example.com",
-      "password_salt": "47df08bbacf482f4",
-      "password_hash": "ec79b44d720f900deb74b8d8522a2ad9e98cd12b1651a8be2d9295396c4e0276",
+      "password_salt": "b28498545712f456",
+      "password_hash": "cb5575ad97b73d67d3b02aa10fbee7a4281cbb08f70cd110aac1e7c1275ce9b6",
       "first_name": "Борис",
       "last_name": "Бывший",
       "role": "user",
       "is_blocked": 1,
-      "created_at": "2026-10-15T07:14:46.742Z",
-      "updated_at": "2026-10-15T07:14:46.742Z"
+      "created_at": "2026-11-07T18:00:01.082Z",
+      "updated_at": "2026-11-07T18:00:01.082Z"
     },
     {
       "id": 3,
       "login": "kira",
       "email": "kira@example.com",
-      "password_salt": "5a642af20ef6bdfe",
-      "password_hash": "a172b02b58a801b031ed40429a334ee723e82ae2bff46b975d184703948b7492",
+      "password_salt": "98ab4db45bea7866",
+      "password_hash": "f6851be61b16fdd4d24c6e257e073305e311f3b30e6d15d021e862e186523b7d",
       "first_name": "Кира",
       "last_name": "Админова",
       "role": "admin",
       "is_blocked": 0,
-      "created_at": "2026-10-15T07:14:46.742Z",
-      "updated_at": "2026-10-15T07:14:46.742Z"
+      "created_at": "2026-11-07T18:00:01.082Z",
+      "updated_at": "2026-11-07T18:00:01.082Z"
     }
   ],
-  "sessions": [
-    {
-      "id": 1,
-      "user_id": 1,
-      "token": "6d9c8ea12fd94228999ed7b51d47ff993c5a91c00d840ab7b4d580c66a99aab7",
-      "expires_at": "2026-10-15T09:14:48.335Z",
-      "created_at": "2026-10-15T07:14:48.335Z"
-    },
-    {
-      "id": 2,
-      "user_id": 1,
-      "token": "f1f92238e206ba84124195b1f840612313a771c7ad374983d17c98cb21c15c1d",
-      "expires_at": "2026-10-19T11:00:14.517Z",
-      "created_at": "2026-10-19T09:00:14.517Z"
-    },
-    {
-      "id": 4,
-      "user_id": 3,
-      "token": "b2ebecbac667f2bfcc2f6bcba329e42e9450cc00e0bd9a7bfb9a9a3f1f171b46",
-      "expires_at": "2026-10-19T17:17:46.445Z",
-      "created_at": "2026-10-19T15:17:46.445Z"
-    },
-    {
-      "id": 7,
-      "user_id": 3,
-      "token": "26081edb6dae54f64681009f80ca801deecb9fc68e374d1d47e727d5b1a58d59",
-      "expires_at": "2026-10-21T12:13:26.383Z",
-      "created_at": "2026-10-21T10:13:26.383Z"
-    },
-    {
-      "id": 8,
-      "user_id": 1,
-      "token": "5e179696bf6eaf07e8c78530ac8571b634eb0a797de80562cb6694bad68b946f",
-      "expires_at": "2026-10-23T16:06:16.808Z",
-      "created_at": "2026-10-23T14:06:16.808Z"
-    },
-    {
-      "id": 9,
-      "user_id": 1,
-      "token": "79ce90e418df0be7ac0c6f1975a6da58173ca740f6425df48ff5a3a79517f2b6",
-      "expires_at": "2026-10-23T16:21:16.154Z",
-      "created_at": "2026-10-23T14:21:16.154Z"
-    },
-    {
-      "id": 10,
-      "user_id": 1,
-      "token": "65c8a6cc7e0f3f6cfc7cea383af7f0ec53dbd7e229141580f3e1f9370e8eb31e",
-      "expires_at": "2026-10-23T17:39:30.393Z",
-      "created_at": "2026-10-23T15:39:30.393Z"
-    },
-    {
-      "id": 11,
-      "user_id": 1,
-      "token": "a199af6e531613ccb2217f7a1c1a3653427b32accaf0888bb1eb65d13759fb20",
-      "expires_at": "2026-10-23T17:43:38.193Z",
-      "created_at": "2026-10-23T15:43:38.193Z"
-    },
-    {
-      "id": 12,
-      "user_id": 1,
-      "token": "7b547da4ab7d2008ab0cfc0f53872934756afc8b3ac73bb88295ba147d73c92a",
-      "expires_at": "2026-10-26T15:20:37.892Z",
-      "created_at": "2026-10-26T13:20:37.892Z"
-    },
-    {
-      "id": 13,
-      "user_id": 1,
-      "token": "4e2999b5ca4eb354f77eb115dd2191b28c567199875ade60e5f3341f63d087a0",
-      "expires_at": "2026-10-26T18:42:48.317Z",
-      "created_at": "2026-10-26T16:42:48.317Z"
-    },
-    {
-      "id": 14,
-      "user_id": 1,
-      "token": "b1073b5cdd9cc2429c180e4b3a8d79f0a9d5552148c9d1e4527908c46865205b",
-      "expires_at": "2026-10-26T18:54:03.586Z",
-      "created_at": "2026-10-26T16:54:03.586Z"
-    },
-    {
-      "id": 15,
-      "user_id": 1,
-      "token": "d753d9c4e219f8452bfea07eefdf5a9d0f2602228131f7535c302f10448d4f97",
-      "expires_at": "2026-10-26T19:06:47.435Z",
-      "created_at": "2026-10-26T17:06:47.435Z"
-    },
-    {
-      "id": 16,
-      "user_id": 1,
-      "token": "5d10b304ae948e84385d828232f385296edcea9570934e6c0ea48ddd29463775",
-      "expires_at": "2026-10-26T19:07:38.667Z",
-      "created_at": "2026-10-26T17:07:38.668Z"
-    },
-    {
-      "id": 17,
-      "user_id": 1,
-      "token": "d1630faff24791aceab64cc702f00e4d1a5c504f27f52804e78c6e48cd185f72",
-      "expires_at": "2026-10-29T10:01:05.811Z",
-      "created_at": "2026-10-29T08:01:05.811Z"
-    },
-    {
-      "id": 18,
-      "user_id": 1,
-      "token": "5721267811d3fd83c8854363a02821e7f2146dcc9a586c1e51ef04c1727bf7b5",
-      "expires_at": "2026-10-29T18:22:07.337Z",
-      "created_at": "2026-10-29T16:22:07.337Z"
-    },
-    {
-      "id": 19,
-      "user_id": 1,
-      "token": "333e0f46974eebebf000f3924ce21f181034c79f3f36deeb0da22fc97c901a17",
-      "expires_at": "2026-10-29T20:06:45.726Z",
-      "created_at": "2026-10-29T18:06:45.726Z"
-    },
-    {
-      "id": 20,
-      "user_id": 1,
-      "token": "64ce63bf79a69abe9413c7b261d89ae6aba5d1fb16e5723e4a14d2dc0d5f137e",
-      "expires_at": "2026-10-29T20:08:50.058Z",
-      "created_at": "2026-10-29T18:08:50.058Z"
-    },
-    {
-      "id": 21,
-      "user_id": 1,
-      "token": "3058fb1dc5dd52bfc28d24df7a4c6e00e81a2743b6e1d18173252869ae7cce8d",
-      "expires_at": "2026-10-29T20:28:47.967Z",
-      "created_at": "2026-10-29T18:28:47.968Z"
-    },
-    {
-      "id": 22,
-      "user_id": 1,
-      "token": "fcbfed5df6c6f1662570fa9962846659141be697413ba87c9c58ccd631607847",
-      "expires_at": "2026-11-01T09:21:45.364Z",
-      "created_at": "2026-11-01T07:21:45.364Z"
-    },
-    {
-      "id": 23,
-      "user_id": 1,
-      "token": "71be27749c8daaa85da5f4584879608a549ba5c828467dd857b15dcc61c9234e",
-      "expires_at": "2026-11-01T16:41:53.169Z",
-      "created_at": "2026-11-01T14:41:53.169Z"
-    },
-    {
-      "id": 24,
-      "user_id": 1,
-      "token": "071ccc2c3360b32da14d3b778c616be834206857b85d6d3ee441b2090337833d",
-      "expires_at": "2026-11-01T16:47:09.648Z",
-      "created_at": "2026-11-01T14:47:09.648Z"
-    },
-    {
-      "id": 25,
-      "user_id": 1,
-      "token": "6093069c383847d2f362182baa3505c8a622892ba7558e2d38be1d4eed85251d",
-      "expires_at": "2026-11-01T16:48:47.963Z",
-      "created_at": "2026-11-01T14:48:47.963Z"
-    },
-    {
-      "id": 26,
-      "user_id": 1,
-      "token": "65e93227ffc66fcb0c165c41aae214ef0fd4642db0cfa8c9ddde36f8a8b13f10",
-      "expires_at": "2026-11-01T16:48:49.104Z",
-      "created_at": "2026-11-01T14:48:49.104Z"
-    },
-    {
-      "id": 27,
-      "user_id": 1,
-      "token": "26aa3f2c90db98a196418c93640c26d4bc96d8d5ec90432a29a7ec69204dd0da",
-      "expires_at": "2026-11-01T16:51:51.606Z",
-      "created_at": "2026-11-01T14:51:51.606Z"
-    },
-    {
-      "id": 28,
-      "user_id": 1,
-      "token": "7c69316fc3ca64b30449d4b63180fa2663a15142a660bf2edef40ce73c517eca",
-      "expires_at": "2026-11-01T16:57:30.128Z",
-      "created_at": "2026-11-01T14:57:30.128Z"
-    },
-    {
-      "id": 29,
-      "user_id": 1,
-      "token": "ca0189d8b6c659d5e312004a18c0ea97bc45f5e38fa9d18f683e4f6de302f318",
-      "expires_at": "2026-11-02T15:40:43.250Z",
-      "created_at": "2026-11-02T13:40:43.250Z"
-    },
-    {
-      "id": 30,
-      "user_id": 1,
-      "token": "bb735d9e144c2ff5314f8734f48f9ecd63191b91771ecb896215799fbc440b0c",
-      "expires_at": "2026-11-02T16:15:08.763Z",
-      "created_at": "2026-11-02T14:15:08.763Z"
-    },
-    {
-      "id": 31,
-      "user_id": 1,
-      "token": "a6249f7e553343204ca3ce400fdb3b7e97aba0770ddd955a75654c909d8a68ef",
-      "expires_at": "2026-11-02T17:03:04.236Z",
-      "created_at": "2026-11-02T15:03:04.236Z"
-    },
-    {
-      "id": 32,
-      "user_id": 1,
-      "token": "5c997a95c3b08ada82cd040ca9389dda2d1e72fd46e2a2259dd5dda5032a7fb8",
-      "expires_at": "2026-11-02T18:15:55.509Z",
-      "created_at": "2026-11-02T16:15:55.509Z"
-    },
-    {
-      "id": 33,
-      "user_id": 1,
-      "token": "13bf19739938a6f4bae75e44f043fc8cd43038e2e208c5a50b9f7478e4e65445",
-      "expires_at": "2026-11-02T18:33:13.917Z",
-      "created_at": "2026-11-02T16:33:13.917Z"
-    },
-    {
-      "id": 34,
-      "user_id": 1,
-      "token": "10e0b8e75e00034d7cc37d8ccfa3c378c9f80e5a43bf251363f9e17afcc6d600",
-      "expires_at": "2026-11-02T18:38:30.665Z",
-      "created_at": "2026-11-02T16:38:30.665Z"
-    },
-    {
-      "id": 35,
-      "user_id": 1,
-      "token": "f107de5a44f9ac9ed65e0e00125cbeec1c186938bbab22c8e95f9d1a521794ea",
-      "expires_at": "2026-11-02T18:45:32.205Z",
-      "created_at": "2026-11-02T16:45:32.205Z"
-    },
-    {
-      "id": 36,
-      "user_id": 1,
-      "token": "e90014338b140a647d48c83eeafb2048e468d4a8a405e60c0ff021ca07eec8d8",
-      "expires_at": "2026-11-04T08:44:52.587Z",
-      "created_at": "2026-11-04T06:44:52.588Z"
-    },
-    {
-      "id": 37,
-      "user_id": 1,
-      "token": "8bac86408fd4a77f825a2d4189bb8ba7d94e89098cf020ecfa61a75436008671",
-      "expires_at": "2026-11-04T09:33:13.865Z",
-      "created_at": "2026-11-04T07:33:13.865Z"
-    },
-    {
-      "id": 38,
-      "user_id": 1,
-      "token": "ad3bb817b95770f790a806871d43e1372f0ecf972c0b2b77dd6850511f7ce1fe",
-      "expires_at": "2026-11-04T09:34:09.955Z",
-      "created_at": "2026-11-04T07:34:09.955Z"
-    }
-  ],
+  "sessions": [],
   "products": [
     {
       "id": 1,
@@ -296,8 +50,8 @@
       "category": "paper",
       "stock": 0,
       "is_active": 1,
-      "created_at": "2026-10-14T07:14:46.742Z",
-      "updated_at": "2026-10-14T07:14:46.742Z"
+      "created_at": "2026-11-06T18:00:01.082Z",
+      "updated_at": "2026-11-06T18:00:01.082Z"
     },
     {
       "id": 2,
@@ -307,8 +61,8 @@
       "category": "pens",
       "stock": 1,
       "is_active": 1,
-      "created_at": "2026-10-13T07:14:46.742Z",
-      "updated_at": "2026-10-13T07:14:46.742Z"
+      "created_at": "2026-11-05T18:00:01.082Z",
+      "updated_at": "2026-11-05T18:00:01.082Z"
     },
     {
       "id": 3,
@@ -318,8 +72,8 @@
       "category": "notebooks",
       "stock": 10,
       "is_active": 1,
-      "created_at": "2026-10-12T07:14:46.742Z",
-      "updated_at": "2026-10-12T07:14:46.742Z"
+      "created_at": "2026-11-04T18:00:01.082Z",
+      "updated_at": "2026-11-04T18:00:01.082Z"
     },
     {
       "id": 4,
@@ -329,8 +83,8 @@
       "category": "other",
       "stock": 999,
       "is_active": 1,
-      "created_at": "2026-10-11T07:14:46.742Z",
-      "updated_at": "2026-10-11T07:14:46.742Z"
+      "created_at": "2026-11-03T18:00:01.082Z",
+      "updated_at": "2026-11-03T18:00:01.082Z"
     },
     {
       "id": 5,
@@ -340,8 +94,8 @@
       "category": "paper",
       "stock": 0,
       "is_active": 1,
-      "created_at": "2026-10-10T07:14:46.742Z",
-      "updated_at": "2026-10-10T07:14:46.742Z"
+      "created_at": "2026-11-02T18:00:01.082Z",
+      "updated_at": "2026-11-02T18:00:01.082Z"
     },
     {
       "id": 6,
@@ -351,8 +105,8 @@
       "category": "pens",
       "stock": 1,
       "is_active": 1,
-      "created_at": "2026-10-09T07:14:46.742Z",
-      "updated_at": "2026-10-09T07:14:46.742Z"
+      "created_at": "2026-11-01T18:00:01.082Z",
+      "updated_at": "2026-11-01T18:00:01.082Z"
     },
     {
       "id": 7,
@@ -362,8 +116,8 @@
       "category": "notebooks",
       "stock": 10,
       "is_active": 1,
-      "created_at": "2026-10-08T07:14:46.742Z",
-      "updated_at": "2026-10-08T07:14:46.742Z"
+      "created_at": "2026-10-31T18:00:01.082Z",
+      "updated_at": "2026-10-31T18:00:01.082Z"
     },
     {
       "id": 8,
@@ -373,8 +127,8 @@
       "category": "other",
       "stock": 999,
       "is_active": 1,
-      "created_at": "2026-10-07T07:14:46.742Z",
-      "updated_at": "2026-10-07T07:14:46.742Z"
+      "created_at": "2026-10-30T18:00:01.082Z",
+      "updated_at": "2026-10-30T18:00:01.082Z"
     },
     {
       "id": 9,
@@ -384,8 +138,8 @@
       "category": "paper",
       "stock": 0,
       "is_active": 1,
-      "created_at": "2026-10-06T07:14:46.742Z",
-      "updated_at": "2026-10-06T07:14:46.742Z"
+      "created_at": "2026-10-29T18:00:01.082Z",
+      "updated_at": "2026-10-29T18:00:01.082Z"
     },
     {
       "id": 10,
@@ -395,8 +149,8 @@
       "category": "pens",
       "stock": 1,
       "is_active": 1,
-      "created_at": "2026-10-05T07:14:46.742Z",
-      "updated_at": "2026-10-05T07:14:46.742Z"
+      "created_at": "2026-10-28T18:00:01.082Z",
+      "updated_at": "2026-10-28T18:00:01.082Z"
     },
     {
       "id": 11,
@@ -406,8 +160,8 @@
       "category": "notebooks",
       "stock": 10,
       "is_active": 1,
-      "created_at": "2026-10-04T07:14:46.742Z",
-      "updated_at": "2026-10-04T07:14:46.742Z"
+      "created_at": "2026-10-27T18:00:01.082Z",
+      "updated_at": "2026-10-27T18:00:01.082Z"
     },
     {
       "id": 12,
@@ -417,8 +171,8 @@
       "category": "other",
       "stock": 999,
       "is_active": 1,
-      "created_at": "2026-10-03T07:14:46.742Z",
-      "updated_at": "2026-10-03T07:14:46.743Z"
+      "created_at": "2026-10-26T18:00:01.082Z",
+      "updated_at": "2026-10-26T18:00:01.082Z"
     },
     {
       "id": 13,
@@ -428,8 +182,8 @@
       "category": "paper",
       "stock": 0,
       "is_active": 1,
-      "created_at": "2026-10-02T07:14:46.743Z",
-      "updated_at": "2026-10-02T07:14:46.743Z"
+      "created_at": "2026-10-25T18:00:01.082Z",
+      "updated_at": "2026-10-25T18:00:01.082Z"
     },
     {
       "id": 14,
@@ -439,8 +193,8 @@
       "category": "pens",
       "stock": 1,
       "is_active": 1,
-      "created_at": "2026-10-01T07:14:46.743Z",
-      "updated_at": "2026-10-01T07:14:46.743Z"
+      "created_at": "2026-10-24T18:00:01.082Z",
+      "updated_at": "2026-10-24T18:00:01.082Z"
     },
     {
       "id": 15,
@@ -450,8 +204,8 @@
       "category": "notebooks",
       "stock": 10,
       "is_active": 1,
-      "created_at": "2026-09-30T07:14:46.743Z",
-      "updated_at": "2026-09-30T07:14:46.743Z"
+      "created_at": "2026-10-23T18:00:01.082Z",
+      "updated_at": "2026-10-23T18:00:01.082Z"
     },
     {
       "id": 16,
@@ -461,8 +215,8 @@
       "category": "other",
       "stock": 999,
       "is_active": 1,
-      "created_at": "2026-09-29T07:14:46.743Z",
-      "updated_at": "2026-09-29T07:14:46.743Z"
+      "created_at": "2026-10-22T18:00:01.082Z",
+      "updated_at": "2026-10-22T18:00:01.082Z"
     },
     {
       "id": 17,
@@ -472,8 +226,8 @@
       "category": "paper",
       "stock": 0,
       "is_active": 1,
-      "created_at": "2026-09-28T07:14:46.743Z",
-      "updated_at": "2026-09-28T07:14:46.743Z"
+      "created_at": "2026-10-21T18:00:01.082Z",
+      "updated_at": "2026-10-21T18:00:01.082Z"
     },
     {
       "id": 18,
@@ -483,8 +237,8 @@
       "category": "pens",
       "stock": 1,
       "is_active": 1,
-      "created_at": "2026-09-27T07:14:46.743Z",
-      "updated_at": "2026-09-27T07:14:46.743Z"
+      "created_at": "2026-10-20T18:00:01.082Z",
+      "updated_at": "2026-10-20T18:00:01.082Z"
     },
     {
       "id": 19,
@@ -494,8 +248,8 @@
       "category": "notebooks",
       "stock": 10,
       "is_active": 1,
-      "created_at": "2026-09-26T07:14:46.743Z",
-      "updated_at": "2026-09-26T07:14:46.743Z"
+      "created_at": "2026-10-19T18:00:01.082Z",
+      "updated_at": "2026-10-19T18:00:01.082Z"
     },
     {
       "id": 20,
@@ -505,8 +259,8 @@
       "category": "other",
       "stock": 999,
       "is_active": 1,
-      "created_at": "2026-09-25T07:14:46.743Z",
-      "updated_at": "2026-09-25T07:14:46.743Z"
+      "created_at": "2026-10-18T18:00:01.082Z",
+      "updated_at": "2026-10-18T18:00:01.082Z"
     },
     {
       "id": 21,
@@ -516,8 +270,8 @@
       "category": "paper",
       "stock": 0,
       "is_active": 1,
-      "created_at": "2026-09-24T07:14:46.743Z",
-      "updated_at": "2026-09-24T07:14:46.743Z"
+      "created_at": "2026-10-17T18:00:01.082Z",
+      "updated_at": "2026-10-17T18:00:01.082Z"
     },
     {
       "id": 22,
@@ -527,8 +281,8 @@
       "category": "pens",
       "stock": 1,
       "is_active": 1,
-      "created_at": "2026-09-23T07:14:46.743Z",
-      "updated_at": "2026-09-23T07:14:46.743Z"
+      "created_at": "2026-10-16T18:00:01.082Z",
+      "updated_at": "2026-10-16T18:00:01.082Z"
     },
     {
       "id": 23,
@@ -538,8 +292,8 @@
       "category": "notebooks",
       "stock": 10,
       "is_active": 1,
-      "created_at": "2026-09-22T07:14:46.743Z",
-      "updated_at": "2026-09-22T07:14:46.743Z"
+      "created_at": "2026-10-15T18:00:01.082Z",
+      "updated_at": "2026-10-15T18:00:01.082Z"
     },
     {
       "id": 24,
@@ -549,8 +303,8 @@
       "category": "other",
       "stock": 999,
       "is_active": 1,
-      "created_at": "2026-09-21T07:14:46.743Z",
-      "updated_at": "2026-09-21T07:14:46.743Z"
+      "created_at": "2026-10-14T18:00:01.082Z",
+      "updated_at": "2026-10-14T18:00:01.082Z"
     },
     {
       "id": 25,
@@ -560,8 +314,8 @@
       "category": "paper",
       "stock": 0,
       "is_active": 1,
-      "created_at": "2026-09-20T07:14:46.743Z",
-      "updated_at": "2026-09-20T07:14:46.743Z"
+      "created_at": "2026-10-13T18:00:01.082Z",
+      "updated_at": "2026-10-13T18:00:01.082Z"
     },
     {
       "id": 26,
@@ -571,8 +325,8 @@
       "category": "other",
       "stock": 5,
       "is_active": 0,
-      "created_at": "2026-09-14T07:14:46.743Z",
-      "updated_at": "2026-09-14T07:14:46.743Z"
+      "created_at": "2026-10-07T18:00:01.082Z",
+      "updated_at": "2026-10-07T18:00:01.082Z"
     },
     {
       "id": 27,
@@ -582,415 +336,15 @@
       "category": "other",
       "stock": 5,
       "is_active": 0,
-      "created_at": "2026-09-13T07:14:46.743Z",
-      "updated_at": "2026-09-13T07:14:46.743Z"
+      "created_at": "2026-10-06T18:00:01.082Z",
+      "updated_at": "2026-10-06T18:00:01.082Z"
     }
   ],
-  "audit_log": [
-    {
-      "id": 1,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-15T07:14:48.335Z"
-    },
-    {
-      "id": 2,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-19T09:00:14.517Z"
-    },
-    {
-      "id": 3,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-19T15:14:18.548Z"
-    },
-    {
-      "id": 4,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-10-19T15:16:46.518Z"
-    },
-    {
-      "id": 5,
-      "user_id": 3,
-      "action": "login",
-      "payload": "{\"login\":\"kira\"}",
-      "created_at": "2026-10-19T15:17:46.445Z"
-    },
-    {
-      "id": 6,
-      "user_id": 3,
-      "action": "login",
-      "payload": "{\"login\":\"kira\"}",
-      "created_at": "2026-10-21T10:07:00.701Z"
-    },
-    {
-      "id": 7,
-      "user_id": 3,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-10-21T10:11:32.111Z"
-    },
-    {
-      "id": 8,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-21T10:11:50.131Z"
-    },
-    {
-      "id": 9,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-10-21T10:13:08.734Z"
-    },
-    {
-      "id": 10,
-      "user_id": 3,
-      "action": "login",
-      "payload": "{\"login\":\"kira\"}",
-      "created_at": "2026-10-21T10:13:26.383Z"
-    },
-    {
-      "id": 11,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-23T14:06:16.808Z"
-    },
-    {
-      "id": 12,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-23T14:21:16.154Z"
-    },
-    {
-      "id": 13,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-23T15:39:30.393Z"
-    },
-    {
-      "id": 14,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-23T15:43:38.193Z"
-    },
-    {
-      "id": 15,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-26T13:20:37.892Z"
-    },
-    {
-      "id": 16,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-26T16:42:48.317Z"
-    },
-    {
-      "id": 17,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-26T16:54:03.587Z"
-    },
-    {
-      "id": 18,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-26T17:06:47.436Z"
-    },
-    {
-      "id": 19,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-26T17:07:38.668Z"
-    },
-    {
-      "id": 20,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-29T08:01:05.811Z"
-    },
-    {
-      "id": 21,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-29T16:22:07.337Z"
-    },
-    {
-      "id": 22,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-29T18:06:45.726Z"
-    },
-    {
-      "id": 23,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-29T18:08:50.058Z"
-    },
-    {
-      "id": 24,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-10-29T18:28:47.968Z"
-    },
-    {
-      "id": 25,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-01T07:21:45.364Z"
-    },
-    {
-      "id": 26,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-01T14:41:53.169Z"
-    },
-    {
-      "id": 27,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-01T14:47:09.648Z"
-    },
-    {
-      "id": 28,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-01T14:48:47.963Z"
-    },
-    {
-      "id": 29,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-01T14:48:49.104Z"
-    },
-    {
-      "id": 30,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-01T14:51:51.607Z"
-    },
-    {
-      "id": 31,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-01T14:57:30.128Z"
-    },
-    {
-      "id": 32,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-02T13:40:43.250Z"
-    },
-    {
-      "id": 33,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-02T14:15:08.763Z"
-    },
-    {
-      "id": 34,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-02T15:03:04.236Z"
-    },
-    {
-      "id": 35,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-02T16:15:55.509Z"
-    },
-    {
-      "id": 36,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-02T16:33:13.917Z"
-    },
-    {
-      "id": 37,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-02T16:38:30.665Z"
-    },
-    {
-      "id": 38,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-02T16:45:32.205Z"
-    },
-    {
-      "id": 39,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-04T06:44:52.588Z"
-    },
-    {
-      "id": 40,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-04T07:33:13.865Z"
-    },
-    {
-      "id": 41,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-04T07:34:09.955Z"
-    },
-    {
-      "id": 42,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T07:22:38.406Z"
-    },
-    {
-      "id": 43,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T07:22:46.003Z"
-    },
-    {
-      "id": 44,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T07:24:34.298Z"
-    },
-    {
-      "id": 45,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T07:27:44.339Z"
-    },
-    {
-      "id": 46,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T14:31:00.051Z"
-    },
-    {
-      "id": 47,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T14:43:50.846Z"
-    },
-    {
-      "id": 48,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T16:46:58.257Z"
-    },
-    {
-      "id": 49,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T16:46:58.429Z"
-    },
-    {
-      "id": 50,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T16:52:28.708Z"
-    },
-    {
-      "id": 51,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T16:52:28.860Z"
-    },
-    {
-      "id": 52,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T16:52:42.820Z"
-    },
-    {
-      "id": 53,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T16:52:42.937Z"
-    },
-    {
-      "id": 54,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T17:00:32.908Z"
-    },
-    {
-      "id": 55,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T17:00:33.034Z"
-    },
-    {
-      "id": 56,
-      "user_id": 1,
-      "action": "login",
-      "payload": "{\"login\":\"anna\"}",
-      "created_at": "2026-11-06T17:01:03.771Z"
-    },
-    {
-      "id": 57,
-      "user_id": 1,
-      "action": "logout",
-      "payload": "{}",
-      "created_at": "2026-11-06T17:01:03.925Z"
-    }
-  ],
+  "audit_log": [],
   "seq": {
     "users": 3,
-    "sessions": 46,
+    "sessions": 0,
     "products": 27,
-    "audit_log": 57
+    "audit_log": 0
   }
 }
