@@ -14,7 +14,7 @@ test('успешный поиск по каталогу', async ({ page }) => {
     await userAnna(page);
 
     const search = page.getByTestId('catalog-search');
-    await search.fill('тетрадь');
+    await search.fill('тетра');
     await search.press('Enter');
 
     await expect(page).toHaveURL(/q=/);
@@ -24,7 +24,7 @@ test('успешный поиск по каталогу', async ({ page }) => {
     
     if (names.length === 0) return;
     
-    const missing = names.filter(name => !name.toLowerCase().includes('тетрадь'));
+    const missing = names.filter(name => !name.toLowerCase().includes('тетра'));
     expect(missing).toHaveLength(0);
     
     await expect(page.getByTestId('app-error')).toBeHidden();
