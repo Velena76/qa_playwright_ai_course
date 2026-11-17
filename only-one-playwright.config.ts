@@ -8,7 +8,7 @@ if (!pathToChrome) {
 }
 const __dirname = import.meta.dirname;
 export default defineConfig({
-    testDir: join(__dirname, 'tests', 'examples'),
+    testDir: join(__dirname, 'tests', '7'),
     reporter: [
         ['line'],
         // ['html', {

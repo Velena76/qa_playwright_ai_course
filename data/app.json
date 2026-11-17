@@ -124,6 +124,202 @@
       "token": "9e94ba45b4e4b228f93f2aff98ec0c91926177389c70462f48a627cffe62be54",
       "expires_at": "2026-11-09T12:54:42.535Z",
       "created_at": "2026-11-09T10:54:42.536Z"
+    },
+    {
+      "id": 14,
+      "user_id": 3,
+      "token": "30e6d989f5204e55b80bb863776b6b8c28eb326d97d10ff27e152d32256e1ba9",
+      "expires_at": "2026-11-12T13:56:39.733Z",
+      "created_at": "2026-11-12T11:56:39.733Z"
+    },
+    {
+      "id": 15,
+      "user_id": 3,
+      "token": "70b90d4994e2c81726de92bfa94508494acc414094e08dfd24a2fa1ce38bc3a1",
+      "expires_at": "2026-11-13T09:51:22.598Z",
+      "created_at": "2026-11-13T07:51:22.598Z"
+    },
+    {
+      "id": 16,
+      "user_id": 3,
+      "token": "999770f8ea4e8cae77084164a22ff17ea6e1d7d26a46f5b0f8acc7ba606ae760",
+      "expires_at": "2026-11-13T10:25:18.393Z",
+      "created_at": "2026-11-13T08:25:18.393Z"
+    },
+    {
+      "id": 17,
+      "user_id": 3,
+      "token": "7b461e5358d6b13f9960062bdf36777fe9ba65b79e1b04b044565100196fc37e",
+      "expires_at": "2026-11-13T10:29:43.091Z",
+      "created_at": "2026-11-13T08:29:43.091Z"
+    },
+    {
+      "id": 18,
+      "user_id": 3,
+      "token": "281be919cd77ef229636440bd9f8a8f40804a13e4cef253204e2acaf662ecca6",
+      "expires_at": "2026-11-13T10:34:35.473Z",
+      "created_at": "2026-11-13T08:34:35.473Z"
+    },
+    {
+      "id": 19,
+      "user_id": 3,
+      "token": "c6c0e85e771f2ebc13a1e749538a9f81d0a4f6f56d7d13d730c7427bb08be73f",
+      "expires_at": "2026-11-13T10:35:09.646Z",
+      "created_at": "2026-11-13T08:35:09.646Z"
+    },
+    {
+      "id": 20,
+      "user_id": 3,
+      "token": "7c140ac24632b4193f092c105d88756ce5ac9263997aba370f1f87e77b04202c",
+      "expires_at": "2026-11-13T10:36:33.621Z",
+      "created_at": "2026-11-13T08:36:33.621Z"
+    },
+    {
+      "id": 21,
+      "user_id": 3,
+      "token": "11b225bec6dfa087013dd3abbd4d15b226685df840adc34a8a0613f67f8935b5",
+      "expires_at": "2026-11-13T10:36:43.674Z",
+      "created_at": "2026-11-13T08:36:43.674Z"
+    },
+    {
+      "id": 22,
+      "user_id": 3,
+      "token": "364ee924dfafc5834973826d3b9f595a1ea9012fcaf52a42117ce783e1b9413a",
+      "expires_at": "2026-11-15T09:05:38.037Z",
+      "created_at": "2026-11-15T07:05:38.037Z"
+    },
+    {
+      "id": 23,
+      "user_id": 3,
+      "token": "f2c64370baedd271dfa086cb63c867b65bc316065085ccbc7967b77d22b9e78d",
+      "expires_at": "2026-11-15T15:52:00.019Z",
+      "created_at": "2026-11-15T13:52:00.019Z"
+    },
+    {
+      "id": 24,
+      "user_id": 3,
+      "token": "2a053466718202fe4e5b4a9522e7b8035b6886a82b0163f74eb6b6524a4b0e6b",
+      "expires_at": "2026-11-15T15:52:21.819Z",
+      "created_at": "2026-11-15T13:52:21.819Z"
+    },
+    {
+      "id": 25,
+      "user_id": 3,
+      "token": "e21c93fdaa53d8dfea77949e3e776f6b3cb5228791362e80c875d2baa3757780",
+      "expires_at": "2026-11-15T15:55:31.448Z",
+      "created_at": "2026-11-15T13:55:31.448Z"
+    },
+    {
+      "id": 26,
+      "user_id": 3,
+      "token": "ad7395e0f2ed85c4787ed10300a0224aa819523d821aed998aefad22eeb2d47e",
+      "expires_at": "2026-11-15T17:27:06.923Z",
+      "created_at": "2026-11-15T15:27:06.923Z"
+    },
+    {
+      "id": 27,
+      "user_id": 3,
+      "token": "75a5adc3614c8654a7f7028471f5a248072c816bf0432af810d9760e1fb9610d",
+      "expires_at": "2026-11-15T18:01:15.676Z",
+      "created_at": "2026-11-15T16:01:15.676Z"
+    },
+    {
+      "id": 28,
+      "user_id": 3,
+      "token": "da1c37ac06c726ffc9259c4690a3220d159ab3db8b331aca5319011d47477760",
+      "expires_at": "2026-11-15T18:17:28.960Z",
+      "created_at": "2026-11-15T16:17:28.961Z"
+    },
+    {
+      "id": 29,
+      "user_id": 3,
+      "token": "82940e183dd3c9571be471c64f181e6e04995ac3ba41f4884fc96f654a814b05",
+      "expires_at": "2026-11-15T18:21:35.314Z",
+      "created_at": "2026-11-15T16:21:35.314Z"
+    },
+    {
+      "id": 30,
+      "user_id": 3,
+      "token": "5ebca2302d764918ae7b2c4e3ae54fc9bca0ad9662a46ae1e073eb743abc17cf",
+      "expires_at": "2026-11-15T18:31:59.068Z",
+      "created_at": "2026-11-15T16:31:59.068Z"
+    },
+    {
+      "id": 31,
+      "user_id": 3,
+      "token": "25c97782bb3e9e5735c21892bd8fba09e1c11ca745e24ca86d62e3c4629266e7",
+      "expires_at": "2026-11-16T09:00:52.188Z",
+      "created_at": "2026-11-16T07:00:52.188Z"
+    },
+    {
+      "id": 32,
+      "user_id": 1,
+      "token": "e108f418b757a08e9675164be09463a96b21ec55f34f1b63631d05110085d7d9",
+      "expires_at": "2026-11-16T11:07:37.464Z",
+      "created_at": "2026-11-16T09:07:37.464Z"
+    },
+    {
+      "id": 33,
+      "user_id": 1,
+      "token": "b2bd354aa2bf14d9f9403ea960518191117d1eafd4cae85a084a455887c2e4b0",
+      "expires_at": "2026-11-16T14:00:51.136Z",
+      "created_at": "2026-11-16T12:00:51.136Z"
+    },
+    {
+      "id": 34,
+      "user_id": 1,
+      "token": "c962f8a90c74907b043d160c7867625727c012a66b3c48ec74148653a3f8fc5f",
+      "expires_at": "2026-11-16T17:21:08.882Z",
+      "created_at": "2026-11-16T15:21:08.882Z"
+    },
+    {
+      "id": 35,
+      "user_id": 1,
+      "token": "4c6a8f406c6d8a2d839ef9c6777abc6e3c484bd1908fcdc3411fa0b3c8091468",
+      "expires_at": "2026-11-16T17:29:06.910Z",
+      "created_at": "2026-11-16T15:29:06.910Z"
+    },
+    {
+      "id": 36,
+      "user_id": 1,
+      "token": "9bd664204814ddac91f43d17aacbb52bd11424f69523b6336c6a80fb3cfe7232",
+      "expires_at": "2026-11-16T17:29:24.080Z",
+      "created_at": "2026-11-16T15:29:24.080Z"
+    },
+    {
+      "id": 37,
+      "user_id": 1,
+      "token": "d0e699e6d8b5affc24802f64260d1b277fcfbf062f0970cf3be462ba0f9c486d",
+      "expires_at": "2026-11-16T17:30:44.477Z",
+      "created_at": "2026-11-16T15:30:44.477Z"
+    },
+    {
+      "id": 38,
+      "user_id": 1,
+      "token": "e8fd673e831ce3c55e77364a8018114935c3ac63255ca3a4b743bbb19e9197e5",
+      "expires_at": "2026-11-16T17:34:06.440Z",
+      "created_at": "2026-11-16T15:34:06.440Z"
+    },
+    {
+      "id": 39,
+      "user_id": 1,
+      "token": "fe0c08c758640efdf3fa0502ec1bacaff63e34594617b09d8042c14d613ceaf6",
+      "expires_at": "2026-11-16T17:38:27.591Z",
+      "created_at": "2026-11-16T15:38:27.591Z"
+    },
+    {
+      "id": 40,
+      "user_id": 1,
+      "token": "f73e86960b3fba6e15406226886202b6327b958d2cef411b8d1871c04197f926",
+      "expires_at": "2026-11-16T17:44:32.882Z",
+      "created_at": "2026-11-16T15:44:32.882Z"
+    },
+    {
+      "id": 41,
+      "user_id": 1,
+      "token": "c053b3f3936466fa5e96f4bf73cb3ae00a3875f58c63d4a1e3de0725854d1803",
+      "expires_at": "2026-11-17T09:28:29.094Z",
+      "created_at": "2026-11-17T07:28:29.094Z"
     }
   ],
   "products": [
@@ -423,6 +619,72 @@
       "is_active": 0,
       "created_at": "2026-10-06T18:00:01.082Z",
       "updated_at": "2026-10-06T18:00:01.082Z"
+    },
+    {
+      "id": 28,
+      "name": "тетрадь 12 л.",
+      "description": "",
+      "price": 34,
+      "category": "paper",
+      "stock": 2,
+      "is_active": 1,
+      "created_at": "2026-11-12T11:46:04.488Z",
+      "updated_at": "2026-11-12T11:46:04.488Z"
+    },
+    {
+      "id": 29,
+      "name": "тетрадь1",
+      "description": "тестовое описание",
+      "price": 10000,
+      "category": "other",
+      "stock": 10,
+      "is_active": 1,
+      "created_at": "2026-11-13T08:35:10.195Z",
+      "updated_at": "2026-11-13T08:35:10.195Z"
+    },
+    {
+      "id": 30,
+      "name": "name80-1794558993821xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "description": "тестовое описание",
+      "price": 10000,
+      "category": "other",
+      "stock": 10,
+      "is_active": 1,
+      "created_at": "2026-11-13T08:36:34.278Z",
+      "updated_at": "2026-11-13T08:36:34.278Z"
+    },
+    {
+      "id": 31,
+      "name": "тетрадь2",
+      "description": "",
+      "price": 0,
+      "category": "paper",
+      "stock": 4,
+      "is_active": 1,
+      "created_at": "2026-11-15T07:09:24.504Z",
+      "updated_at": "2026-11-15T07:09:24.504Z"
+    },
+    {
+      "id": 32,
+      "name": "price-min:0",
+      "description": "тестовое описание",
+      "price": 0,
+      "category": "other",
+      "stock": 10,
+      "is_active": 1,
+      "created_at": "2026-11-15T13:52:06.081Z",
+      "updated_at": "2026-11-15T13:52:06.081Z"
+    },
+    {
+      "id": 33,
+      "name": "price-more-max:1100000",
+      "description": "тестовое описание",
+      "price": 1000000,
+      "category": "other",
+      "stock": 10,
+      "is_active": 1,
+      "created_at": "2026-11-15T16:17:29.608Z",
+      "updated_at": "2026-11-15T16:17:29.608Z"
     }
   ],
   "audit_log": [
@@ -509,12 +771,264 @@
       "action": "login",
       "payload": "{\"login\":\"anna\"}",
       "created_at": "2026-11-09T10:54:42.536Z"
+    },
+    {
+      "id": 13,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-12T11:40:06.639Z"
+    },
+    {
+      "id": 14,
+      "user_id": 3,
+      "action": "product_create",
+      "payload": "{\"product_id\":28,\"name\":\"тетрадь 12 л.\"}",
+      "created_at": "2026-11-12T11:46:04.488Z"
+    },
+    {
+      "id": 15,
+      "user_id": 3,
+      "action": "logout",
+      "payload": "{}",
+      "created_at": "2026-11-12T11:55:50.984Z"
+    },
+    {
+      "id": 16,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-12T11:56:39.733Z"
+    },
+    {
+      "id": 17,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-13T07:51:22.598Z"
+    },
+    {
+      "id": 18,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-13T08:25:18.393Z"
+    },
+    {
+      "id": 19,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-13T08:29:43.091Z"
+    },
+    {
+      "id": 20,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-13T08:34:35.473Z"
+    },
+    {
+      "id": 21,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-13T08:35:09.646Z"
+    },
+    {
+      "id": 22,
+      "user_id": 3,
+      "action": "product_create",
+      "payload": "{\"product_id\":29,\"name\":\"тетрадь1\"}",
+      "created_at": "2026-11-13T08:35:10.195Z"
+    },
+    {
+      "id": 23,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-13T08:36:33.621Z"
+    },
+    {
+      "id": 24,
+      "user_id": 3,
+      "action": "product_create",
+      "payload": "{\"product_id\":30,\"name\":\"name80-1794558993821xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\"}",
+      "created_at": "2026-11-13T08:36:34.278Z"
+    },
+    {
+      "id": 25,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-13T08:36:43.674Z"
+    },
+    {
+      "id": 26,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T07:05:38.037Z"
+    },
+    {
+      "id": 27,
+      "user_id": 3,
+      "action": "product_create",
+      "payload": "{\"product_id\":31,\"name\":\"тетрадь2\"}",
+      "created_at": "2026-11-15T07:09:24.504Z"
+    },
+    {
+      "id": 28,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T13:52:00.020Z"
+    },
+    {
+      "id": 29,
+      "user_id": 3,
+      "action": "product_create",
+      "payload": "{\"product_id\":32,\"name\":\"price-min:0\"}",
+      "created_at": "2026-11-15T13:52:06.081Z"
+    },
+    {
+      "id": 30,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T13:52:21.819Z"
+    },
+    {
+      "id": 31,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T13:55:31.449Z"
+    },
+    {
+      "id": 32,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T15:27:06.923Z"
+    },
+    {
+      "id": 33,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T16:01:15.676Z"
+    },
+    {
+      "id": 34,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T16:17:28.961Z"
+    },
+    {
+      "id": 35,
+      "user_id": 3,
+      "action": "product_create",
+      "payload": "{\"product_id\":33,\"name\":\"price-more-max:1100000\"}",
+      "created_at": "2026-11-15T16:17:29.608Z"
+    },
+    {
+      "id": 36,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T16:21:35.314Z"
+    },
+    {
+      "id": 37,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-15T16:31:59.068Z"
+    },
+    {
+      "id": 38,
+      "user_id": 3,
+      "action": "login",
+      "payload": "{\"login\":\"kira\"}",
+      "created_at": "2026-11-16T07:00:52.188Z"
+    },
+    {
+      "id": 39,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T09:07:37.464Z"
+    },
+    {
+      "id": 40,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T12:00:51.136Z"
+    },
+    {
+      "id": 41,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T15:21:08.882Z"
+    },
+    {
+      "id": 42,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T15:29:06.910Z"
+    },
+    {
+      "id": 43,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T15:29:24.080Z"
+    },
+    {
+      "id": 44,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T15:30:44.477Z"
+    },
+    {
+      "id": 45,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T15:34:06.440Z"
+    },
+    {
+      "id": 46,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T15:38:27.591Z"
+    },
+    {
+      "id": 47,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-16T15:44:32.883Z"
+    },
+    {
+      "id": 48,
+      "user_id": 1,
+      "action": "login",
+      "payload": "{\"login\":\"anna\"}",
+      "created_at": "2026-11-17T07:28:29.095Z"
     }
   ],
   "seq": {
     "users": 3,
-    "sessions": 12,
-    "products": 27,
-    "audit_log": 12
+    "sessions": 41,
+    "products": 33,
+    "audit_log": 48
   }
 }

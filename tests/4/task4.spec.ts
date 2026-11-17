@@ -11,18 +11,5 @@ test('Проверка видимости элементов страницы в
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 `/**await page.goto('/login') Это относительный путь.Base URL обычно задаётся в конфиге Playwright(playwright.config.ts) через baseURL.
 Например, если baseURL равен http://localhost:3000, то page.goto('/login') на самом деле откроет http://localhost:3000/login.*/`

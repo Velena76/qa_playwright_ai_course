@@ -18,10 +18,10 @@ test('выбор категории оставляет только товары
     const rows = page.getByTestId('catalog-row');
     await expect(rows).not.toHaveCount(0);
 
-    const rowCount = await rows.count();
+    const rowCount = await rows.count();//узнаем кол-во строк
     for (let i = 0; i < rowCount; i++) {
         const categoryCell = rows.nth(i).locator("td:nth-child(2)");
-        const text = await categoryCell.textContent();
+        const text = await categoryCell.textContent();//забирает текст из ячейки
         expect(text?.trim()).toBe("notebooks");
     }
     await expect(page.getByTestId('app-error')).toBeHidden();
