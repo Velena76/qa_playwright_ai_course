@@ -24,4 +24,6 @@
     "editor.formatOnPaste": true,
     "editor.formatOnType": true,
     "js/ts.format.semicolons": "insert",
+    "editor.occurrencesHighlight": "off",
+    "editor.selectionHighlight": false
 }
